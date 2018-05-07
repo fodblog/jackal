@@ -1,6 +1,6 @@
 ---
 title: Green tea mushroom soup
-tags: [soup, japan, recipes]
+tags: [soup, japan, recipes, lunch]
 ---
 
     When I saw – mushroom head

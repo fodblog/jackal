@@ -1,6 +1,6 @@
 ---
 title: Feta, orange and lentil salad
-tags: [salad, spain, recipes]
+tags: [salad, spain, recipes, lunch]
 ---
 
 	La luna llorando dice:
