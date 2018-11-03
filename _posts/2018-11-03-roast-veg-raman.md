@@ -12,7 +12,7 @@ tags: [soup, japan, noodle, lunch]
 	
 Ramen is such a great way of serving food that it seems a shame to be limited by sometime lack of good Japanese ingredients. Now, I don't love fusion food as a thing, but when it makes sense, concept-wise, to mix different types of flavour, then why no. So in this ramen recipe the flavours are a mix of the miso and soy of east asian cooking, with a more middle eastern spice combo for the autumnal roast veg, with all the veg being available fresh pretty much everywhere - just carrots, celeriac and cauliflower.
 
-The roasted veg mix here will do for far more than the ramen, you can save it up and mix with lentils or quinoa for a fantastic cold salad. Or just warm up and dip in the coriander, cumin, fennel mix (described below too) for a great snack.
+The roasted veg mix here will do for far more than the ramen, you can save it up and mix with lentils or quinoa for a fantastic cold salad. Or just warm up and dip in the coriander, cumin, fennel mix (described below too) for a great snack. Use the pickled egg described [here](https://fodblog.github.io/2018/porter-pickled-eggs/) for some extra smokey kick.
 
 ![Ramen Bowl]({{https://fodblog.github.io/}}/assets/pictures/roast-veg-raman.jpg)
 
@@ -33,7 +33,7 @@ The roasted veg mix here will do for far more than the ramen, you can save it up
 	* Chicken stock (1 L)
 	* Miso paste
 	* 1 spring onion (green part)
-	* Some of the pickled eggs (described in XXXX)
+	* A pickeld egg
 	* Enough ramen noodles for 2 people (see packet for directions)
 
 ### Roast veg
