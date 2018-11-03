@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: bread
-name: bread
+layout: tagpage
+title: "Tag: bread"
+tag: bread
+robots: noindex
 ---

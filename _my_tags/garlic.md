@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: garlic
-name: garlic
+layout: tagpage
+title: "Tag: garlic"
+tag: garlic
+robots: noindex
 ---

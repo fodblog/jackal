@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: cabbage"
-tag: cabbage
+title: "Tag: indian"
+tag: indian
 robots: noindex
 ---

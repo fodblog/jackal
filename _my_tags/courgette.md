@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: courgette
-name: courgette
+layout: tagpage
+title: "Tag: courgette"
+tag: courgette
+robots: noindex
 ---

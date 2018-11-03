@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: stew
-name: stew
+layout: tagpage
+title: "Tag: stew"
+tag: stew
+robots: noindex
 ---

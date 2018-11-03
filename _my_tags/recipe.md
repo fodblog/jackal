@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: cabbage"
-tag: cabbage
+title: "Tag: recipe"
+tag: recipe
 robots: noindex
 ---

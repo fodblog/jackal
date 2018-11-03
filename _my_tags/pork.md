@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: pork
-name: pork
+layout: tagpage
+title: "Tag: pork"
+tag: pork
+robots: noindex
 ---

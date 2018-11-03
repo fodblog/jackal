@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: asian
-name: asian
+layout: tagpage
+title: "Tag: asian"
+tag: asian
+robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: eastern_europe
-name: eastern_europe
+layout: tagpage
+title: "Tag: eastern_europe"
+tag: eastern_europe
+robots: noindex
 ---

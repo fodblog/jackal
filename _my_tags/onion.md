@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: onion
-name: onion
+layout: tagpage
+title: "Tag: onion"
+tag: onion
+robots: noindex
 ---

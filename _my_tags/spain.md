@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: spain
-name: spain
+layout: tagpage
+title: "Tag: spain"
+tag: spain
+robots: noindex
 ---

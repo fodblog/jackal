@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: pasta
-name: pasta
+layout: tagpage
+title: "Tag: pasta"
+tag: pasta
+robots: noindex
 ---

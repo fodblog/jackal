@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: middle_east
-name: middle_east
+layout: tagpage
+title: "Tag: middle_east"
+tag: middle_east
+robots: noindex
 ---

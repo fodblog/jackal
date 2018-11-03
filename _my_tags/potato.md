@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: potato
-name: potato
+layout: tagpage
+title: "Tag: potato"
+tag: potato
+robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: pickle
-name: pickle
+layout: tagpage
+title: "Tag: pickle"
+tag: pickle
+robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: egg
-name: egg
+layout: tagpage
+title: "Tag: egg"
+tag: egg
+robots: noindex
 ---

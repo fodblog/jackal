@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: japan
-name: japan
+layout: tagpage
+title: "Tag: japan"
+tag: japan
+robots: noindex
 ---

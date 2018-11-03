@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: wild_garlic
-name: wild_garlic
+layout: tagpage
+title: "Tag: wild_garlic"
+tag: wild_garlic
+robots: noindex
 ---

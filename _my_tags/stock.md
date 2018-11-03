@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: stock
-name: stock
+layout: tagpage
+title: "Tag: stock"
+tag: stock
+robots: noindex
 ---

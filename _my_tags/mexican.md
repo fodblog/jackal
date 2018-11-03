@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: mexican
-name: mexican
+layout: tagpage
+title: "Tag: mexican"
+tag: mexican
+robots: noindex
 ---

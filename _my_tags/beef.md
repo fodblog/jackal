@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: beef
-name: beef
+layout: tagpage
+title: "Tag: beef"
+tag: beef
+robots: noindex
 ---

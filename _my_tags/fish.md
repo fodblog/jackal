@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: fish
-name: fish
+layout: tagpage
+title: "Tag: fish"
+tag: fish
+robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: cheese
-name: cheese
+layout: tagpage
+title: "Tag: cheese"
+tag: cheese
+robots: noindex
 ---

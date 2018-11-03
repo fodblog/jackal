@@ -1,5 +1,6 @@
 ---
-layout: blog_by_tag
-slug: tomato
-name: tomato
+layout: tagpage
+title: "Tag: tomato"
+tag: tomato
+robots: noindex
 ---
