@@ -1,6 +1,6 @@
 ---
 title: Autumn miso ramen
-tags: [soup, japan, noodle, lunch, recipies, fodmap]
+tags: [soup, japan, noodle, lunch, recipes, fodmap]
 ---
 
 	Are still here in the rear, ayo, we don't need you

@@ -1,10 +1,14 @@
 ---
 title: A title
 category: dinner/lunch/tea
-tags: [recipies, some, other, tags]
+tags: [recipes, some, other, tags]
 ---
     Some quote	
+
 *Source* **Person**
+
+
+*Serves* 
 
     Ingredient
     List

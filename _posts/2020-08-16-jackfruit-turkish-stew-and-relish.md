@@ -1,10 +1,25 @@
 ---
 title: Turkish Jackfruit with Chilli Relish
 category: dinner
-tags: [jackfruit, lentils, main, recipies]
+tags: [jackfruit, lentils, main, recipes]
 ---
 
+    "The lover is outcast and idle,"
+    they used to tell me.
+    It's true.
+    It happened to me.
+
+    I tried to make sense of the Four Books,
+    until love arrived,
+    and it all became a single syllable.
+
+*The lover is outcast and idle* **Yunus Emre**
+
+
+*Serves* 4
+
 Stew
+
     6 tbsp olive oil
     1/2 tsp ground cinnamon
     1/4 tsp cayenne pepper
@@ -20,7 +35,9 @@ Stew
     1 can Jackfruit
     700 ml water
     3 tbsp tomato puree
+
 Relish
+
     sea salt flakes
     1 green chilli, halved, seeds removed, roughly chopped
     1 red chilli, halved, seeds removed, roughly chopped
