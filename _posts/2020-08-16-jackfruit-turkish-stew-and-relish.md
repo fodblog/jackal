@@ -2,6 +2,7 @@
 title: Turkish Jackfruit with Chilli Relish
 category: dinner
 tags: [jackfruit, lentils, main, recipes]
+layout: post
 ---
 
     "The lover is outcast and idle,"

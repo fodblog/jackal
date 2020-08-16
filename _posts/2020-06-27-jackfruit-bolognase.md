@@ -2,6 +2,7 @@
 title: Jackfruit Bolognase
 category: dinner
 tags: [jackfruit, lentils, main, recipes]
+layout: post
 ---
 
 
