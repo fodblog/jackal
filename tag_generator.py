@@ -42,9 +42,9 @@ for tag in total_tags:
     tmp_string_2 = tmp_string_1.replace(",","")
     total_clean_tags.append(tmp_string_2)
 
-print total_clean_tags
+print(total_clean_tags)
 total_tags = set(total_clean_tags)
-print total_tags
+print(total_tags)
 
 old_tags = glob.glob(tag_dir + '*.md')
 for tag in old_tags:
