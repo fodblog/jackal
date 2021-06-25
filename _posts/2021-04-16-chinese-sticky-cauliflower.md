@@ -3,8 +3,13 @@ title: Sticky Chinese Cauliflower
 category: lunch
 tags: [recipies, china, cauliflower, tofu]
 ---
-    Some quote	
-*Source* **Person**
+    Take me down little Susie, take me down
+    I know you think you're the queen of the underground
+    And you can send me dead flowers every morning
+    Send me dead flowers by the mail
+    Send me dead flowers to my wedding
+    And I won't forget to put roses on your grave	
+*Dead Flowers* **Jagger/Richards** (from _Sticky Fingers_ ... see.)
 
 [https://thewanderlustkitchen.com/general-tsos-baked-cauliflower/](https://thewanderlustkitchen.com/general-tsos-baked-cauliflower/)
 
